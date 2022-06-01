@@ -1,6 +1,6 @@
 # python-pubsub-learning
 Practicing using google pubsub with python, and simulating that usage in circleci.  
-Specifically 
+Specifically interested in adding a message delay for intentionally delayed processing.
 
 ## Usage
 ```
